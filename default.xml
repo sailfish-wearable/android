@@ -396,7 +396,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" />
 -->
-  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
+  <project path="frameworks/av" name="mer-hybris/android_frameworks_av" groups="pdk" revision="hybris-12.1" />
   <project path="frameworks/base" name="mer-hybris/android_frameworks_base" revision="hybris-12.1" />
 <!--
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
